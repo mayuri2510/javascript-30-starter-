@@ -14,9 +14,7 @@
 */
 
 /**
- * data that is saved and used between user interactionss
+ * data that is saved and used between user interactions
  * @property {string} mirrorArt - the full user artwork
  */
-export const data = {
-  separator: '|',
-};
+
