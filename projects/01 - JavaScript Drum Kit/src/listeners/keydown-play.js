@@ -3,7 +3,6 @@
 import { playSound } from '../handlers/play-sound.js';
 
 /**
- * @name user input
- * calls the reverseHandler when a user types in the input field
+ * calls the playSound when a user press a key
  */
 window.addEventListener('keydown', playSound);
